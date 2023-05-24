@@ -12,7 +12,7 @@ Sprint 2 - I carried out a continuation of sprint 1 (fiap) of Java, I put a repe
 ## Download
 
 ```sh
-https://github.com/eucesar/Java-Projects-done-in-class-FIAP.git
+https://github.com/eucesar/Game-Robot-Java-Sprints.git
 ```
 
 ## Cesar
